@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\generator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\tinyxml2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\xmlgen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\generator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\tinyxml2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\xmlgen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A8E5DF89-B8A9-3A13-A6C1-A556F80C6A08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0A357225-EA83-3DC7-8F4D-FA595370E0C0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\catmull-rom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\events.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\fps.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\engine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\objects.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\vbo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\tinyxml2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\xmleng.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\catmull-rom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\events.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\fps.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\engine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\objects.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\vbo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\tinyxml2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\xmleng.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Users\Ricardo\LCC\CompGráfica\TrabalhoPratico\Fase3_v3\Code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A8E5DF89-B8A9-3A13-A6C1-A556F80C6A08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0A357225-EA83-3DC7-8F4D-FA595370E0C0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

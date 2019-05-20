@@ -1,0 +1,4 @@
+D:/Users/Ricardo/LCC/CompGráfica/TrabalhoPratico/Fase3_v3/CMakeFiles/Engine.dir
+D:/Users/Ricardo/LCC/CompGráfica/TrabalhoPratico/Fase3_v3/CMakeFiles/Generator.dir
+D:/Users/Ricardo/LCC/CompGráfica/TrabalhoPratico/Fase3_v3/CMakeFiles/ALL_BUILD.dir
+D:/Users/Ricardo/LCC/CompGráfica/TrabalhoPratico/Fase3_v3/CMakeFiles/ZERO_CHECK.dir
